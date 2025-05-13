@@ -1,10 +1,10 @@
 # :wave: Hello, I'm Enmanuel (ealmont)
 
 <a href="https://github.com/ealmontt">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ealmont&show_icons=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ealmont&show_icons=true" />
 </a>
 <a href="https://github.com/ealmont">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ealmont&layout=compact&langs_count=8&hide=javascript,html,css,mdx&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ealmont&layout=compact&langs_count=8&hide=javascript,html,css,mdx&card_width=320" />
 </a>
 
 **Current Status:** Working from Home!
