@@ -2,7 +2,7 @@
 <a href="https://github.com/ealmont">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ealmont&show_icons=true" />
 </a>
-<a href="https://carlos.lat">
+<a href="https://github.com/ealmont">
   <img height=200 align="center" src="https://github.com/ealmont/api/top-langs?username=ealmont&layout=compact&langs_count=8&hide=javascript,html,css,mdx&card_width=320" />
 </a>
 **Current Status:** Working from Home!
